@@ -1,0 +1,17 @@
+{
+  "name": "tesktask_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TestTask1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.14",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
